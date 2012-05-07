@@ -5,7 +5,7 @@
 NAME = "ZenPacks.Nova.Windows.SNMPPerfMonitor"
 VERSION = "1.6"
 AUTHOR = "Ryan Matte"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Nova', 'ZenPacks.Nova.Windows']
 PACKAGES = ['ZenPacks', 'ZenPacks.Nova', 'ZenPacks.Nova.Windows', 'ZenPacks.Nova.Windows.SNMPPerfMonitor']
 INSTALL_REQUIRES = []
